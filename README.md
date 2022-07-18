@@ -28,6 +28,8 @@ Built on a system running node version 16.14.2 and npm version 8.5.0.
 
 1. Test your typing speed!!
 
+![Screenshot](https://user-images.githubusercontent.com/253295/179443068-3d474f2d-a7f1-49f5-8e82-36bddfac2e4d.png)
+
 ## Testing
 
 Run tests using: `npm test`
